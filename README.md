@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/IBM/Decentralized-Energy-Composer) 
+
 # WARNING: This repository is no longer maintained :warning:
 
 *Read this in other languages: [中文](README-cn.md).*
